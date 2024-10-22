@@ -44,6 +44,17 @@
         ]
     },
     {
+        "name": "Pull&Bear",
+        "founded": 1991,
+        "headquarters": "Arteixo, Spain",
+        "employees": 174000,
+        "products": [
+            "Casual Wear",
+            "Fashion Apparel",
+            "Accessories"
+        ]
+    },
+    {
         "name": "Uniqlo",
         "founded": 1949,
         "headquarters": "Yamaguchi, Japan",
@@ -52,6 +63,17 @@
             "Casual Wear",
             "Outerwear",
             "Accessories"
+        ]
+    },
+    {
+        "name": "Gucci",
+        "founded": 1921,
+        "headquarters": "Florence, Italy",
+        "employees": 947,
+        "products": [
+            "High Fasion",
+            "Premium",
+            "Leather"
         ]
     }
 ]

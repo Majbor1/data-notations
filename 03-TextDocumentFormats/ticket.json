@@ -1,0 +1,12 @@
+[
+    {
+        "train id": "IC56",
+        "train name": "Wawel",
+        "from": "Kraków Główny",
+        "to": "Głogów",
+        "ticket id": 207700732,
+        "deleyed": false,
+        "name" : "Marcin Majborski",
+        "date/time": "18.10.2024 / 10:00"
+    }
+]

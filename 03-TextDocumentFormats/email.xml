@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+    <sender>
+        <name>Marcin</name>
+        <surname>Majborski</surname>
+        <mail>marcinmajborski@gmail.com</mail>
+    </sender>
+    <recipient>
+        <name>Oliwia</name>
+        <surname>Stawicka</surname>
+        <mail>oliwiastawicka123@gmail.com</mail>
+    </recipient>
+    <subject>Pozdrowienia</subject>
+    <mail_body>
+        Witam i pozdrawiam
+    </mail_body>
+</structure>
