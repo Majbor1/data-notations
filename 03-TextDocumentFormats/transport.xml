@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transports>
-    <transport type="car" howMuch="offten">
+    <transport type="car" frequency="offten">
         <brand>Seat</brand>
         <price>16000</price>
         <color>black</color>
         <yours>Yes</yours>
     </transport>
-    <transport type="plane" howMuch="sometimes">
+    <transport type="plane" frequency="sometimes">
         <brand>Boeing</brand>
         <price>500</price>
         <color>white</color>
         <yours>no</yours>
     </transport>
-    <transport type="bus" howMuch="everyday">
+    <transport type="bus" frequency="everyday">
         <brand>Man</brand>
         <price>80</price>
         <color>blue</color>
