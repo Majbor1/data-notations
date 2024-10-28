@@ -7,7 +7,7 @@ stalj@uek.krakow.pl
 
 # LIGHTWEIGHT TEXT FORMATTING
 
-## 1. Introduction to Markdown
+###### 1. Introduction to Markdown
 
 1. Markdown is a lightweight markup language that allows text to be formatted using simple, readable syntax. Its goal is to simplify writing formatted text in editors and systems where HTML or other more complex languages ​​would be too complicated. Markdown documents usually have the .md extension.
 
