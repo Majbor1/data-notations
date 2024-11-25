@@ -1,0 +1,43 @@
+/* General table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+    border: brown, solid, 1px;
+}
+
+/* Table header styles */
+th {
+    background-color: brown;
+    color: beige;
+    padding: 10px;
+
+}
+
+/* Table body styles */
+td {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    border: brown, solid, 1px;
+}
+
+/* Hover effect for rows */
+tr:hover {
+    color: brown;
+    background-color: #f0f0f0;
+}
+
+/* Zebra striping for rows */
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+td:nth-child(4){
+    width: 25%;
+}
+
+td:nth-child(2){
+    width: 40%;
+}
